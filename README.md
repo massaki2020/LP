@@ -3,7 +3,7 @@ Repositório de Linguagem de Programação - AMBIENTE TESTE
 # 
 
 # **O gitHub**
-é uma excelente plataforma para rastrear, gerenciar e colaborar em projetos de desenvolvimento, por isso vale a pena aprender a usar. Ele permite que você hospede projetos on-line e use o poderoso controle de versão do Git para acompanhar todas as alterações.
+É uma excelente plataforma para rastrear, gerenciar e colaborar em projetos de desenvolvimento, por isso vale a pena aprender a usar. Ele permite que você hospede projetos on-line e use o poderoso controle de versão do Git para acompanhar todas as alterações.
 
 **Teste de outros links**
 ![](RackMultipart20200710-4-1os3twp_html_49ac0cb03196381.gif)   ![](RackMultipart20200710-4-1os3twp_html_49ac0cb03196381.gif)   ![](RackMultipart20200710-4-1os3twp_html_49ac0cb03196381.gif)
